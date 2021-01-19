@@ -11,7 +11,7 @@ https://medium.com/gtsw/como-testar-uma-rails-api-com-rspec-596d4ce39988
 
 
 #### Ou faça o download ou clone do repositório climatempoapi.
-git clone https://github.com/carolsprak/climatempoapi.git
+> git clone https://github.com/carolsprak/climatempoapi.git
 
 #### Ou acesse diretamente a API: https://openweathermap.org/api
 
