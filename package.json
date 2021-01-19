@@ -1,0 +1,29 @@
+{
+  "name": "cypress_climatempo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:open": "node_modules/.bin/cypress open",
+    "cypress:run": "node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolsprak/cypress_climatempo.git"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "acceptance",
+    "JavaScript",
+    "JS"
+  ],
+  "author": "Anne Caroline Rocha (carolsprak)",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/carolsprak/cypress_climatempo"
+  },
+  "homepage": "https://github.com/carolsprak/cypress_climatempo/blob/main/README.md",
+  "devDependencies": {
+    "cypress": "^2.0.3"
+  }
+}
